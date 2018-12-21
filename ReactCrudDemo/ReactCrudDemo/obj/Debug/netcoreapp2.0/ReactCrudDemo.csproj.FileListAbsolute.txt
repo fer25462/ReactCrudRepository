@@ -1,0 +1,11 @@
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\bin\Debug\netcoreapp2.0\ReactCrudDemo.deps.json
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\bin\Debug\netcoreapp2.0\ReactCrudDemo.runtimeconfig.json
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\bin\Debug\netcoreapp2.0\ReactCrudDemo.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\bin\Debug\netcoreapp2.0\ReactCrudDemo.dll
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\bin\Debug\netcoreapp2.0\ReactCrudDemo.pdb
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\obj\Debug\netcoreapp2.0\ReactCrudDemo.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\obj\Debug\netcoreapp2.0\ReactCrudDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\obj\Debug\netcoreapp2.0\ReactCrudDemo.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\obj\Debug\netcoreapp2.0\ReactCrudDemo.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\obj\Debug\netcoreapp2.0\ReactCrudDemo.dll
+C:\Users\Bruno\source\repos\ReactCrudDemo\ReactCrudDemo\obj\Debug\netcoreapp2.0\ReactCrudDemo.pdb
